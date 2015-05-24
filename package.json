@@ -1,0 +1,25 @@
+{
+  "name": "nodeEchoServer",
+  "version": "0.0.0",
+  "description": "Node Echo Server",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.12.4",
+    "body-parser": "~1.12.4",
+    "multer": "~0.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hibooboo2/echoserver.git"
+  },
+  "author": "James Harris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hibooboo2/echoserver/issues"
+  }
+}
